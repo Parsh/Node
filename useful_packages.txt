@@ -1,0 +1,21 @@
+1. Nodemon        // restarts the app.js (or which ever file we start it with) as it detects any changes
+
+2. lodash         // helps in sorting, filtering and type checking and lots more, check it's documentation for more
+
+3. yargs          // package that deals with command line inputs very effectively and efficiently
+
+4. request        // package that deals with making http request to different APIs from within our node app
+
+5. underscore     // Underscore is a JavaScript library that provides a whole mess of useful functional programming helpers without extending any built-in objects
+
+6. axios          // Promise based HTTP client for the browser and node.js
+
+7. validator      // A library of string validators and sanitizers.
+
+8. mongoose       // elegant mongodb object modeling for node.js
+
+9. jsonwebtoken   // JSON Web Tokens are an open, industry standard RFC 7519 method for representing claims securely between two parties.
+
+10. crypto        // JavaScript implementations of standard and secure cryptographic algorithms.
+
+11. bcryptjs      // Optimized bcrypt in JavaScript with zero dependencies. Compatible to the C++ bcrypt binding on node.js and also working in the browser.
